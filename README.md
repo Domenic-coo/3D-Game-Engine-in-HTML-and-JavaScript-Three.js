@@ -12,4 +12,4 @@ and then you shold be done.
 i havent added so mutch yet but i will in the future.
 You can look what im working on right now on here: https://github.com/users/Domenic-coo/projects/2
 
-you can look on my demo att: https://threemodulejs.000webhostapp.com
+you can look on my demo att: https://3dgameengine.000webhostapp.com/
